@@ -1,0 +1,12 @@
+com\automation\framework\reports\ExtentReportManager.class
+com\automation\framework\stepdefinitions\ExcelUtils.class
+com\automation\framework\utils\DatabaseUtils.class
+com\automation\framework\utils\RedisUtils.class
+com\automation\framework\stepdefinitions\LoginSteps.class
+com\automation\framework\utils\ExcelUtils.class
+com\automationframework\WebAutomationFramework\AppTest.class
+com\automation\framework\stepdefinitions\DataFetchExample.class
+com\automation\framework\runners\TestRunner.class
+com\automation\framework\base\BaseTest.class
+com\automation\framework\hooks\Hooks.class
+com\automation\framework\pages\LoginPage.class

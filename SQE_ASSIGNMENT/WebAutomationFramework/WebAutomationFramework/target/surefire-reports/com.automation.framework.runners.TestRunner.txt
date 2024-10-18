@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.automation.framework.runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.094 s <<< FAILURE! - in com.automation.framework.runners.TestRunner
+com.automation.framework.runners.TestRunner  Time elapsed: 0.094 s  <<< ERROR!
+org.junit.platform.suite.engine.NoTestsDiscoveredException: Suite [com.automation.framework.runners.TestRunner] did not discover any tests
+
